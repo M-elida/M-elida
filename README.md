@@ -1,6 +1,6 @@
-### Olá! Eu sou Élida
+### Olá! Eu sou Élida ✨
 
-- 🌱 I’m currently estou estudando Front-end
+- 📚 I’m currently estou estudando Front-end
 - 😄 Pronouns: ela/dela
 
 <div align = "center">
