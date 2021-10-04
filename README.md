@@ -2,6 +2,7 @@
 
 - 📚 I’m currently estou estudando Front-end
 - 😄 Pronouns: ela/dela
+- ⚡ Curiosidade: Sou uma artista visual se aventurando pela programação
 
 <div align = "center">
   <a href="https://github.com/M-elida">
