@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently estou estudando Front-end
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: ...
 
 <div align = "center">
   <a href="https://github.com/M-elida">
